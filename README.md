@@ -1,2 +1,2 @@
-# mobile-tools
-Repository for any mobile apps that I fix/modify for better use
+# Mobile Tools
+I do not claim to own any apps modified or shared in this repository
